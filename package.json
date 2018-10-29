@@ -1,0 +1,24 @@
+{
+  "name": "node-lib-faker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "faked": "bin/faked"
+  },
+  "scripts": {
+    "start": "node ./bin/faked",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztrehagem/node-lib-faker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ztrehagem/node-lib-faker/issues"
+  },
+  "homepage": "https://github.com/ztrehagem/node-lib-faker#readme"
+}
